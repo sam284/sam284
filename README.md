@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sam284
-- 👀 I’m interested in cybersecurity penetration testing precisely, and programming with different languages. 
-- 🌱 I’m currently learning comptia PenTest+, B.S in Telecommunications, M.S in Datascience and machine learning.
-- 💞️ I’m looking to collaborate on different types of programming languages, and furhter more with cybersecurity.
+- CyberSecurity Engineer with experience in a wide range of tools and products that help organizations secure their networks and workloads.
+- Curious and active about deploying/integrating different tools and apps to better enhance the detection mechanis.
 - 📫 you can reach me with hammudsamer@outlook.com
 
 <!---
